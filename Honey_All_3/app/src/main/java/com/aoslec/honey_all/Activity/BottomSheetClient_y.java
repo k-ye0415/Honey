@@ -89,8 +89,8 @@ public class BottomSheetClient_y extends BottomSheetDialogFragment {
         });
     }
 
-    @Override // 이거 잊지마세용@@@@@@@@@@@@@@@
-    public void onResume() { // 여기서 수정되거나 무어ㅓ쩌거나 하는 정보가 담겨야지만 화면에 즉각 반응한다.
+    @Override
+    public void onResume() {
         super.onResume();
         connectGetData();
     }
