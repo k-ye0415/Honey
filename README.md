@@ -1,10 +1,10 @@
-# Honey - AOS_Project
+# 🍯Honey - AOS_Project
 
-### Honey를 완성한 꿀벌들
+### Honey를 완성한 꿀벌들🐝
 > 강예진<br>
-> 이승연<br>
-> 송정평<br>
-> 김민재
+> 이승연([![github](https://img.shields.io/badge/-GitHub-990099?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SeungYeon-E) : SeungYeon-E)<br>
+> 송정평(GitHub : Null)<br>
+> 김민재(GitHub : Null)
 
 ### Honey 만든 날짜
 > #### Working Day : 10 Day
